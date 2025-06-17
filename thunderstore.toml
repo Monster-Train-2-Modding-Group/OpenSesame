@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Conductor"
 name = "OpenSesame"
-versionNumber = "0.0.1"
+versionNumber = "1.0.0"
 description = "Shows all undiscovered cards, relics, champion paths"
 websiteUrl = "https://thunderstore.io"
 containsNsfwContent = false
